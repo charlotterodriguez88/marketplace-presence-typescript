@@ -46,3 +46,7 @@ Above is the happy path. The production checklist: The details below apply to Ma
 
 **Marketplace Presence Typescript: Realtime**
 - **Marketplace Presence Typescript:** Mint **short-lived client tokens server-side** (`POST /v1/realtime/token/issue`); never ship your project key to the browser.
+
+## Further reading
+
+- [Node.js Property Document Presence with Loss-Tolerant Collaborative Cursor Fan-Out](docs/node-js-property-document-presence-with-loss-tole-63om8y.md)
